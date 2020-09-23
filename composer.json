@@ -1,10 +1,8 @@
 {
-    "name": "codicastudio/referersource",
-    "description": "A noobs worthless garbage, just learning.",
-    "keywords": [
-        "worthless garabage by a noob."
-    ],
-    "homepage": "https://github.com/codicastudio/referersource",
+    "name": "codica-studio/referersource",
+    "description": "A random Codica Studio package.",
+
+    "homepage": "https://github.com/codica-studio/referersource",
     "license": "MIT",
     "authors": [
         {
@@ -15,7 +13,7 @@
         }
     ],
     "require": {
-        "php": "^7.4",
+        "php": "^7.4 || ^8.0",
         "illuminate/contracts": "^8.0",
         "illuminate/http": "^8.0",
         "illuminate/support": "^8.0"
