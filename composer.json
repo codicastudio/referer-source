@@ -1,8 +1,8 @@
 {
-    "name": "codica-studio/referersource",
+    "name": "codicastudio/referer-source",
     "description": "A random Codica Studio package.",
 
-    "homepage": "https://github.com/codicastudio/referersource",
+    "homepage": "https://github.com/codicastudio/referer-source",
     "license": "MIT",
     "authors": [
         {
@@ -45,6 +45,6 @@
             ]
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true
 }
